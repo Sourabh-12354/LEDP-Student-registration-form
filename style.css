@@ -1,0 +1,145 @@
+*{
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+html{
+    font-size: 62.2%;
+}
+header .col-1 .i-1{
+    width: 12%;
+}
+header .col-1 .i-2{
+    width: 20%;
+    margin-left: 23rem;
+    margin-top: .5rem;
+}
+header .col-1 .i-3{
+    width: 15%;
+    margin-left: 23rem;
+}
+header hr{
+    display: block;
+    margin-left: 6.5rem;
+    margin-right: 6.5rem;
+}
+header nav{
+    margin-top: -1rem;
+    margin-left: 6.5rem;
+    width: 105rem;
+    border-radius: .5rem;
+    background-color: #DDDDDD;
+    height: 5rem;
+}
+header nav ul li{
+    list-style: none;
+    margin-left: -3rem;
+}
+header nav ul li a{
+    display: inline-block;
+    text-decoration: none;
+    font-size: 1.6rem;
+    color: black;
+    margin-left: -1rem;
+    margin-top: 1.3rem;
+}
+main h1{
+    margin-left: 6.5rem;
+    color: #EC896C;
+}
+main .hr-1{
+    margin-left: 6.5rem;
+    margin-right: 6rem;
+}
+form{
+    display: grid;
+    grid-template-columns: 5fr 1fr 5fr;
+    margin-left: 0;
+}
+form .col-1 .relv-info{
+    font-size: 1.7rem;
+}
+form .col-1 label{
+    display: inline-block;
+    font-size: 1.5rem;
+    margin-top: .5rem;
+}
+form .col-1 input{
+    width: 49.2rem;
+    height: 2.6rem;
+}
+form .col-1 .district span{
+    font-size: 1.2rem;
+}
+form .col-1 #district,#course{
+    width: 50rem;
+    height: 3rem;
+    background-color: #FBFBFB;
+}
+form .col-1 fieldset{
+    width: 48.3rem;
+    margin-top: .5rem;
+}
+form .col-1 fieldset legend{
+    font-size: 1.5rem;
+}
+form .col-1 fieldset input{
+    width: 40rem;
+}
+form .col-1 .genderselect label{
+    font-size: 1.5rem;
+    margin-left: 0;
+    margin-top: -15rem;
+}
+form .col-1 #male,#female{
+    width: 1.5rem;
+    margin-top: 2rem;
+    margin-left: 0;
+}
+form .col-1 .c-1,.c-2{
+    margin-left: 0rem;
+    margin-top: 0;
+}
+form .col-1 #yes,#no{
+    width: 1.5rem;
+    margin-left: -1rem;
+}
+.vertical-line{
+    margin-left: -2rem;
+    border-left: .1rem solid #9A9A9A;
+    height: 65rem;
+}
+form .col-2{
+    margin-left: -4.5rem;
+}
+form .col-2 label{
+    display: inline-block;
+    font-size: 1.5rem;
+    margin-top: .5rem;
+}
+form .col-2 input{
+    width: 49.2rem;
+    height: 2.6rem;
+}
+form .col-2 .identy{
+    margin-top: 2.7rem;
+}
+form .col-2 #nid-type,#home-district,#upazilla,#qualification{
+    width: 50rem;
+    height: 3rem;
+    background-color: #FBFBFB;
+}
+form .col-2 .c-1,.c-2{
+    margin-left: 0rem;
+    margin-top: 0;
+}
+form .col-2 #yes,#no{
+    width: 1.5rem;
+    margin-left: -1rem;
+}
+form .col-2 #submit{
+    margin-top: 1rem;
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #666666;
+    width: 15rem;
+}
